@@ -71,8 +71,7 @@ body {
   cursor: pointer;
   color: gold;
   background-color: black;
-  transition: border-color 0.2s ease-in-out, background-color 0.5s,
-    box-shadow 0.2s;
+  transition: border-color 0.2s ease-in-out, background-color 0.5s, box-shadow 0.2s;
 }
 
 .numbers div:active {
@@ -137,3 +136,4 @@ div.equal:active {
 .btn-clear:active {
   font-weight: bold;
 }
+
